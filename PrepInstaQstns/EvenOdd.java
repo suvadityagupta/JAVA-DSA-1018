@@ -1,6 +1,5 @@
 //Even or Odd number
 package PrepInstaQstns;
-
 import java.util.Scanner;
 
 public class EvenOdd {
