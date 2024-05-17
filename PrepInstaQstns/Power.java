@@ -15,5 +15,4 @@ public class Power {
  	System.out.println(base + " ^ " + expo1 + " = " + res1 );
  	System.out.println(base + " ^ " + expo2 + " = " + res2 );
  	}
- 
 }
