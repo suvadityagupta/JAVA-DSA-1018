@@ -1,4 +1,5 @@
 package Recursion;
+import java.util.Scanner;
 
 public class PrintFact {
     public static int calcFact(int n) {
